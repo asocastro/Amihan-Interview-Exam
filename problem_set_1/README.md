@@ -19,5 +19,5 @@
  ## Instructions to Run the Code
 1. Open the file palindrome_pairs.py and change the variable of strings at line 34 to whichever you want to test.
 2. Most IDEs have a run button but if you're going to run the script through cli, use the command: 
-```python problem_set_1/palindrome_pairs.py```
+    ```python problem_set_1/palindrome_pairs.py```
 assumming you are at the root folder AMIHAN-INTERVIEW-EXAM
