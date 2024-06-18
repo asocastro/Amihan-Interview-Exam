@@ -13,8 +13,8 @@
 
  | Functions  | Outputs |
 | ------------- | ------------- |
-|  concatenate_pairs(input_list) | Content Cell  |
-|  check_for_palindrome(input_list, index_list)  | Content Cell  |
+|  'concatenate_pairs(input_list)' | new_input_list, index_list  |
+|  'check_for_palindrome(input_list, index_list)'  | palindrome_list, palindrome_index_list   |
 
  ## Instructions to Run the Code
 1. Open the file palindrome_pairs.py and change the variable of strings at line 34 to whichever you want to test.
