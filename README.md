@@ -16,4 +16,4 @@ The second problem set requires me to check an input of brackets, parentheses, a
 ## Problem Set 3
 Longest Increasing Subsequence
 
-The last problem is about taking the longest increasing subsequence (LIS) in an array of numbers. Basically, you want to get an output of the length of the LIS.
+The last problem is about taking the longest increasing subsequence (LIS) in an array of numbers. We want our output to have the length of the LIS.
